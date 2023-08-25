@@ -1,1 +1,1 @@
-#### Just a simple project for unit testing
+Just a simple project for unit testing
